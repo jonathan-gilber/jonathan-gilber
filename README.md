@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-gilber&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-gilber&show_icons=true&bg_color=A100FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&locale=pt-br)
 
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
