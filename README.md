@@ -3,7 +3,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Accenture" src="https://s3-symbol-logo.tradingview.com/accenture--600.png"/>](https://www.accenture.com/br-pt)
 
-**Software Engineer** \
+**Estágio** \
 [**Accenture**](https://www.accenture.com/br-pt) • Contract \
 Linguagens & Tecnologias: `Azure DevOps`, `Azure Dashboards` \
 Projetos em destaque: [App](https://www.accenture.com/br-pt)
