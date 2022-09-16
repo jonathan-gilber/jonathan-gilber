@@ -1,6 +1,6 @@
 ### Overview do perfil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-gilber&show_icons=true&bg_color=DEG,A100FF,A100FF,b433ff&text_color=FFF888&icon_color=FFFFFF&title_color=46005c&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-gilber&show_icons=true&bg_color=DEG,A100FF,A100FF,b433ff&text_color=FFFFFF&icon_color=FFFFFF&title_color=46005c&locale=pt-br)
 
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
