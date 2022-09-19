@@ -14,9 +14,4 @@ Projetos em destaque: [App](https://www.accenture.com/br-pt)
 <br/>
 <br/>
 
-### Linguagens mais usadas
-No Card abaixo você encontrará minhas linguagens mais usadas em meus repositórios:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-gilber&layout=compact&bg_color=121212&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)
-
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jonathangilber/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
