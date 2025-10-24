@@ -11,7 +11,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Accenture**](https://www.accenture.com/br-pt) • Full-time \
 Linguagens & Tecnologias: `Python`, `Javascript`, `AWS` \
 Projetos em destaque: [App](https://www.accenture.com/br-pt)
-</br>
+<br>
+<br>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
