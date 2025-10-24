@@ -14,7 +14,6 @@ Projetos em destaque: [App](https://www.accenture.com/br-pt)
 <br/>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<h3 align="left">Linguagens e Ferramentas:</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
