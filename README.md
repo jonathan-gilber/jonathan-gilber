@@ -18,6 +18,7 @@ Projetos em destaque: [App](https://www.accenture.com/br-pt)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
