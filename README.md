@@ -28,8 +28,6 @@ Projetos em destaque: [App](https://www.accenture.com/br-pt)
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
 </p>
 <br/>
 
