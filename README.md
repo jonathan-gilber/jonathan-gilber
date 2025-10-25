@@ -9,7 +9,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Associate Software Engineer** \
 [**Accenture**](https://www.accenture.com/br-pt) • Full-time \
-Linguagens & Tecnologias: `Python`, `Javascript`, `AWS` \
+Linguagens & Tecnologias: `Python`, `Node.js`, `AWS` \
 Projetos em destaque: [App](https://www.accenture.com/br-pt)
 <br>
 <br>
