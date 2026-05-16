@@ -1,4 +1,9 @@
-### Overview do perfil
+# Iuri Silva - #OpenToWork
+
+### Desenvolvedor Full Stack Sênior
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/jonathangilber/)]([linkedin.com/in/jonathangilber/](https://www.linkedin.com/in/jonathangilber/)) 
+[![Outlook Badge](https://img.shields.io/badge/-jonathangilber@hotmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:iuricold99@gmail.com)](mailto:jonathangilber@hotmail.com)
 
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
