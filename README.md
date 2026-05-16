@@ -7,10 +7,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Accenture" src="https://s3-symbol-logo.tradingview.com/accenture--600.png"/>](https://www.accenture.com/br-pt)
 
-**Associate Software Engineer** \
+**Software Engineer** \
 [**Accenture**](https://www.accenture.com/br-pt) • Full-time \
-Linguagens & Tecnologias: `Python`, `Node.js`, `AWS` \
-Projetos em destaque: [App](https://www.accenture.com/br-pt)
+Linguagens & Tecnologias: `.NET`, `Python`, `AWS` \
 <br>
 <br>
 
