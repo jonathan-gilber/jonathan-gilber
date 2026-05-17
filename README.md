@@ -3,7 +3,7 @@
 ### Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/jonathangilber/)](https://www.linkedin.com/in/jonathangilber/)
-[![Outlook Badge](https://img.shields.io/badge/-jonathangilber@hotmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:iuricold99@gmail.com)](mailto:jonathangilber@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-jonathangilber@hotmail.com-986DFF?style=flat-square&logo=microsoft-outlook&logoColor=fff&link=mailto:iuricold99@gmail.com)](mailto:jonathangilber@hotmail.com)
 
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -19,17 +19,14 @@ Linguagens & Tecnologias: `.NET`, `Python`, `AWS` \
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=net" alt=".NET" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/
 </p>
 <br/>
 
